@@ -1,0 +1,6 @@
+GIT: outil de Versionning (VCS: Version Control System)
+
+Permet d'avoir plusieur fichiers qui composent une application et ainsi travailler tout en gardant des historique/versions des fichiers sur lesquel on travaille.
+
+Vocabulaire:
+
